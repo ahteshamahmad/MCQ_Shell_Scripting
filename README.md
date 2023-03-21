@@ -8,3 +8,5 @@ before runing this script, you must have this file. so, you can clone this file 
 3. ./mcq_Question.sh
 
 #Now, script will be running and you can see the question one by one with four options.
+#Now, script will be running and you can see the question one by one with options.
+
