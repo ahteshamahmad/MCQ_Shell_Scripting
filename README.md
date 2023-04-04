@@ -9,4 +9,5 @@ before runing this script, you must have this file. so, you can clone this file 
 
 #Now, script will be running and you can see the question one by one with four options.
 #Now, script will be running and you can see the question one by one with options.
+#So, Guys as like this You can write a shell scripting 
 
